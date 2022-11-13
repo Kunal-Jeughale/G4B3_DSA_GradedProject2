@@ -1,3 +1,3 @@
 # G4B3_DSA_GradedProject2
-SkyScrapper Project- Q1
-RightSkewedTree Project - Q2
+Q1-SkyScrapper Project...
+Q2-RightSkewedTree Project
